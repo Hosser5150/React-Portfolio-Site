@@ -1,7 +1,7 @@
 {
   "homepage": "http://Hosser5150.github.io/React-Portfolio-Site",
   "name": "react-portfolio",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
